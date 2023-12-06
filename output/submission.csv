@@ -1,0 +1,61 @@
+filename;weapon;classes
+1.jpg;False;[]
+2.jpg;False;[]
+3.jpg;True;"[""short_weapons"", ""short_weapons""]"
+4.jpg;True;"[""short_weapons""]"
+5.jpg;True;"[""long_weapons""]"
+6.jpg;False;[]
+7.jpg;False;[]
+8.jpg;False;[]
+9.jpg;True;"[""long_weapons', ""long_weapons""]"
+10.jpg;True;"[""long_weapons""]"
+11.jpg;True;"[""short_weapons"", ""short_weapons""]"
+12.jpg;True;"[""long_weapons""', ""short_weapons""]"
+13.jpg;False;[]
+14.jpg;False;[]
+15.jpg;True;"[""long_weapons""]"
+16.jpg;True;"[""long_weapons""]"
+17.jpg;False;[]
+18.jpg;False;[]
+19.jpg;False;[]
+20.jpg;True;"[""short_weapons""]"
+21.jpg;True;"[""long_weapons""]"
+22.jpg;False;[]
+23.jpg;True;"[""long_weapons""]"
+24.jpg;False;[]
+25.jpg;False;[]
+26.jpg;False;[]
+27.jpg;True;"[""short_weapons""]"
+28.jpg;True;"[""long_weapons""]"
+29.jpg;False;[]
+30.jpg;False;[]
+31.jpg;False;[]
+32.jpg;True;"[""long_weapons""]"
+33.jpg;False;[]
+34.jpg;False;[]
+35.jpg;True;"[""short_weapons""]"
+36.jpg;False;[]
+37.jpg;True;"[""short_weapons""]"
+38.jpg;False;[]
+39.jpg;True;"[""short_weapons""]"
+40.jpg;True;"[""long_weapons""]"
+41.jpg;True;"[""short_weapons""]"
+42.jpg;False;[]
+43.jpg;True;"[""long_weapons""]"
+44.jpg;False;[]
+45.jpg;True;"[""long_weapons"", ""long_weapons""]"
+46.jpg;True;"[""long_weapons""]"
+47.jpg;False;[]
+48.jpg;True;"[""long_weapons""]"
+49.jpg;False;[]
+50.jpg;True;"[""short_weapons""]"
+51.jpg;True;"[""short_weapons""]"
+52.jpg;False;[]
+53.jpg;False;[]
+54.jpg;True;"[""long_weapons""]"
+55.jpg;False;[]
+56.jpg;False;[]
+57.jpg;False;[]
+58.jpg;False;[]
+59.jpg;False;[]
+60.jpg;False;[]
