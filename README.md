@@ -1,12 +1,17 @@
 # Weapons-Detection-yolov8
 
-### Solution Description
-A web service with the ability to upload videos/photos for detecting the presence of weapons and armed individuals, as well as counting the confidence level in the presence of such elements in the images.
+### Solution Overview
+A web service with the capability to upload videos/photos for detecting the presence of weapons and armed individuals, along with calculating the confidence level in the presence of such elements in the image.
+
+Solution Stack:
+- Python, React, Fast API.
+- YOLOv8m.
+- Roboflow.
 
 To prepare the service, we:
 
 - Gathered data from open sources.
-- Annotated images, highlighted bounding boxes for weapons and people with weapons.
+- Annotated images, highlighting bounding boxes for weapons and people with weapons.
 - Implemented algorithms for geometric analysis and corrected distortions in the images.
 - Performed augmentation (artificially increased the number of images).
 - Trained the YoloV8 med model.
@@ -21,8 +26,9 @@ The web service includes machine corrections for various camera distortions and 
 - The file `model.py` contains the code responsible for model inference.
 
 ### Building the Solution 🐳
-To begin, you need to install Docker. You can find detailed instructions on how to do this at the following link: [Docker Installation](https://docs.docker.com/get-docker/).
+To get started, you need to install Docker 🐳. You can find detailed instructions on how to do this [here](https://docs.docker.com/get-docker/).
 
-After you have installed Docker and ensured its functionality, you can build the current baseline. To do this, run the following command from the project's root directory:
+Once Docker is installed and verified, you can build the current baseline. Run the following command from the project's root directory:
 ```bash
 docker build -t urbancode-baseline .
+
